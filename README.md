@@ -1,0 +1,2 @@
+# Android_based_campus_auction_system
+基于安卓的校园拍卖系统
